@@ -1,0 +1,16 @@
+img {
+    width: 100Px;
+    height: 100px;
+}
+
+h1 {
+    color: blue;
+}
+
+h2{
+    color: rgb(9, 231, 9);
+}
+
+ul{
+    list-style: none;
+}
